@@ -36,7 +36,7 @@ Primero necesitas [tener instalado *uBlock*]. (Recomiendo: *uBlock Origin*.)
     - *Nota: **Sin** el caracter de exclamación (`!`), que hace referencia a "exclusión"*.
     - Notar también que en este caso, sí que se admite el esquema `https` sin problemas.
 - Click en "Actualizar". (Importante; si no, no se aplica el filtrado)
-- Es probable que necesites actualizar filtros, en la parte superior de la página. (Comprueba que esté marcado en la lista de "Personalizados" Lista BEAPAFC).
+- Es probable que necesites actualizar filtros, en la parte superior de la página. (Comprueba que esté marcado en la lista de "Personalizados" Boicot a Empresas, Autores y Periodistas a favor de la censura v.0.1).
 
 Funcionamiento:
 ----------
