@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
-! Title: Boicot a AEDE v.2.3.1
-! Version: 2.3.1
-! Homepage: http://github.com/gangsthub/FiltroAEDE
-!  'Boicot a AEDE v.2.3' (Deja en blanco las paginas de los miembros de AEDE / AEDE members webpages go blank)
-!    Last modified: Feb 28, 2014, 13:30 UTC
+! Title: Boicot a Empresas, Autores y Periodistas a favor de la censura v.0.1
+! Version: 0.1
+! Homepage: https://github.com/nova6k0/FiltroAEDE
+! Lista basada en "Boicot AEDE v.2.3.1 (como fork del FiltroAEDE de su autor Gangsthub https://github.com/gangsthub/FiltroAEDE)
+!  'Boicot a EAPAFC v.0.1' (Deja en blanco las paginas de Empresas, Autores y Periodistas que apoyan tasas a Internet y están a favor de la censura. Leave blank the web pages of companies, authors, journalists who want to impose taxes on the Internet and are in favor of censorship.)
+!    Last modified: Jun 19, 2018, 17:00 UTC
 !    License: Creative Commons; http://creativecommons.org/licenses/by-nc-sa/3.0/es/
 !
 !    Lista de dominios basada en Matiz.org (redirección a localhost de miembros de AEDE); http://www.matiz.org/dominios.txt
@@ -17,7 +18,7 @@
 ||abc.es^$script
 ||adn.fm^$script
 ||adnradio.cl^$script
-||aede.es^$script
+||ami.info^$script
 ||alfaguara.com^$script
 ||as.com^$script
 ||autocasion.com^$script
@@ -57,6 +58,7 @@
 ||diariodemallorca.es^$script
 ||diariodenavarra.es^$script
 ||diariodenoticias.org^$script
+||diariodepontevedra.es^$script
 ||diariodesevilla.es^$script
 ||diarioinformacion.com^$script
 ||diariojaen.es^$script
@@ -92,6 +94,8 @@
 ||escolasdevalor.com.br^$script
 ||escuelaunidadeditorial.com.br^$script
 ||essayandscience.com^$script
+||europaress.es^$script
+||efe.com^$script
 ||europasur.es^$script
 ||expansion.com^$script
 ||expansionyempleo.com^$script
@@ -140,6 +144,7 @@
 ||lavanguardia.com^$script
 ||laverdad.es^$script
 ||lavozdealmeria.es^$script
+||lavozdegalicia.es^$script
 ||lavozdigital.es^$script
 ||levante-emv.com^$script
 ||librosaguilarl.com^$script
@@ -149,6 +154,7 @@
 ||los40.com^$script
 ||los40principales.com.ar^$script
 ||m80radio.com^$script
+||malagahoy.es^$script
 ||majorcadailybulletin.es^$script
 ||marca.com^$script
 ||marcamotor.com^$script
@@ -162,6 +168,7 @@
 ||mundodeportivo.com^$script
 ||noticiasdealava.com^$script
 ||noticiasdegipuzkoa.com^$script
+||noticiasdenavarra.com^$script
 ||objetiva.com.br^$script
 ||objetiva.pt^$script
 ||onstage.es^$script
@@ -222,7 +229,7 @@
 abc.es##body
 adn.fm##body
 adnradio.cl##body
-aede.es##body
+ami.info##body
 alfaguara.com##body
 as.com##body
 autocasion.com##body
@@ -262,6 +269,7 @@ diariodeleon.es##body
 diariodemallorca.es##body
 diariodenavarra.es##body
 diariodenoticias.org##body
+diariodepontevedra.es##body
 diariodesevilla.es##body
 diarioinformacion.com##body
 diariojaen.es##body
@@ -280,6 +288,8 @@ elcorreoweb.es##body
 eldiadecordoba.es##body
 eldiariomontanes.es##body
 eleconomista.es##body
+efe.com##body
+europapress.es##body
 elmun.do##body
 elmundo.es##body
 elnortedecastilla.es##body
@@ -345,6 +355,7 @@ lavallenata.com##body
 lavanguardia.com##body
 laverdad.es##body
 lavozdealmeria.es##body
+lavozdegalicia.es##body
 lavozdigital.es##body
 levante-emv.com##body
 librosaguilarl.com##body
@@ -354,6 +365,7 @@ los40.cl##body
 los40.com##body
 los40principales.com.ar##body
 m80radio.com##body
+malagahoy.es##body
 majorcadailybulletin.es##body
 marca.com##body
 marcamotor.com##body
@@ -367,6 +379,7 @@ mujerhoy.com##body
 mundodeportivo.com##body
 noticiasdealava.com##body
 noticiasdegipuzkoa.com##body
+noticiasdenavarra.com##body
 objetiva.com.br##body
 objetiva.pt##body
 onstage.es##body
