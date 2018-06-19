@@ -36,7 +36,7 @@ Primero necesitas [tener instalado *uBlock*]. (Recomiendo: *uBlock Origin*.)
     - *Nota: **Sin** el caracter de exclamación (`!`), que hace referencia a "exclusión"*.
     - Notar también que en este caso, sí que se admite el esquema `https` sin problemas.
 - Click en "Actualizar". (Importante; si no, no se aplica el filtrado)
-- Es probable que necesites actualizar filtros, en la parte superior de la página. (Comprueba que esté marcado en la lista de "Personalizados" FiltroAEDE, como aparece en la siguiente captura).
+- Es probable que necesites actualizar filtros, en la parte superior de la página. (Comprueba que esté marcado en la lista de "Personalizados" Lista BEAPAFC).
 
 Funcionamiento:
 ----------
@@ -70,8 +70,8 @@ Must Check:
 [tener instalado *AdBlock Plus* o actualizado (2.0 o superior)]:https://adblockplus.org/es
 [tener instalado *uBlock*]:https://github.com/gorhill/uBlock#installation
 [listado completo]:https://adblockplus.org/en/subscriptions
+[@gangsthub]:https://github.com/gangsthub
 [@j3j5]:https://github.com/j3j5
 [Lista de medios alternativos]:http://wiki.15m.cc/wiki/Lista_de_medios_de_comunicaci%C3%B3n_alternativos
 [@nova6k0]:https://github.com/nova6k0
 
-### Aunque lo puse en agradecimientos. Gracias especiales a @gangsthub , que como diría cierta persona "contigo empezó todo" y sería imposible hacer esto sin su maravilloso trabajo ###
