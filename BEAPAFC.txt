@@ -21,6 +21,7 @@
 ||ami.info^$script
 ||alfaguara.com^$script
 ||as.com^$script
+||autobild.es^$script
 ||autocasion.com^$script
 ||avanzaentucarrera.com^$script
 ||besame.co.cr^$script
@@ -36,6 +37,7 @@
 ||cinemania.es^$script
 ||clix.pt^$script
 ||colorincolorradio.com^$script
+||computerhoy.com^$script
 ||concierto.cl^$script
 ||continental.com.ar^$script
 ||corazon.cl^$script
@@ -111,6 +113,7 @@
 ||heraldo.es^$script
 ||heraldodesoria.es^$script
 ||hjck.com^$script
+||hobbyconsolas.com^$script
 ||hoy.es^$script
 ||hoycinema.es^$script
 ||hoymotor.es^$script
@@ -171,6 +174,7 @@
 ||noticiasdenavarra.com^$script
 ||objetiva.com.br^$script
 ||objetiva.pt^$script
+||ofertia.com^$script
 ||onstage.es^$script
 ||orbyt.tv^$script
 ||oxigeno.fm^$script
@@ -206,13 +210,16 @@
 ||santillanafrancais.com^$script
 ||santillanausa.com^$script
 ||seminariodenarrativayperiodismo.com^$script
+||shopalike.es^$script
 ||sistemauno.com^$script
 ||sport.es^$script
 ||sumadeletras.es^$script
 ||superdeporte.es^$script
 ||tareasymas.es^$script
 ||telva.com^$script
+||ticbeat.com^$script
 ||tiramillas.net^$script
+||topgear.es^$script
 ||tropicanafm.com^$script
 ||ultimahora.es^$script
 ||unidadeditorial.es^$script
@@ -232,6 +239,7 @@ adnradio.cl##body
 ami.info##body
 alfaguara.com##body
 as.com##body
+autobild.es##body
 autocasion.com##body
 avanzaentucarrera.com##body
 besame.co.cr##body
@@ -247,6 +255,7 @@ cincodias.com##body
 cinemania.es##body
 clix.pt##body
 colorincolorradio.com##body
+computerhoy.com##body
 concierto.cl##body
 continental.com.ar##body
 corazon.cl##body
@@ -322,6 +331,7 @@ gruposantillanapr.com##body
 heraldo.es##body
 heraldodesoria.es##body
 hjck.com##body
+hobbyconsolas.com##body
 hoy.es##body
 hoycinema.es##body
 hoymotor.es##body
@@ -382,6 +392,7 @@ noticiasdegipuzkoa.com##body
 noticiasdenavarra.com##body
 objetiva.com.br##body
 objetiva.pt##body
+ofertia.com##body
 onstage.es##body
 orbyt.tv##body
 oxigeno.fm##body
@@ -417,13 +428,16 @@ santillana.cr##body
 santillanafrancais.com##body
 santillanausa.com##body
 seminariodenarrativayperiodismo.com##body
+shopalike.es##body
 sistemauno.com##body
 sport.es##body
 sumadeletras.es##body
 superdeporte.es##body
 tareasymas.es##body
 telva.com##body
+ticbeat.com##body
 tiramillas.net##body
+topgear.es##body
 tropicanafm.com##body
 ultimahora.es##body
 unidadeditorial.es##body
