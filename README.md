@@ -4,8 +4,8 @@ Lista BEAPFC
 Boicot a Empresas, Autores y Periodistas a Favor de la Censura. Que entre otras cosas piden leyes específicas y tasas a Internet, por su incapacidad de adaptarse a las nuevas tecnologías y al S.XXI
 
 Lista de Filtros para:
-- [*Adblock Plus*](https://github.com/nova6k0/FiltroAEDE#c%C3%B3mo-a%C3%B1adir-a-adblock-plus).
-- [*"^uBlock"*](https://github.com/nova6k0/FiltroAEDE/blob/master/README.md#c%C3%B3mo-a%C3%B1adir-a-ublock).
+- [*Adblock Plus*](https://github.com/nova6k0/ListaBEAPAFC#c%C3%B3mo-a%C3%B1adir-a-adblock-plus).
+- [*"^uBlock"*](https://github.com/nova6k0/ListaBEAPAFC/blob/master/README.md#c%C3%B3mo-a%C3%B1adir-a-ublock).
 
 
 Versión actual: 0.1a
@@ -19,11 +19,11 @@ Primero necesitas [tener instalado *AdBlock Plus* o actualizado (2.0 o superior)
 • Para añadir filtros manualmente:
 
 - En las preferencias de *AdBlock* puedes gestionar tus listas y añadir nuevas. 
-- Copia la *URL* donde lo pida: http://raw.github.com/nova6k0/FiltroAEDE/master/BEAPAFC.txt
+- Copia la *URL* donde lo pida: http://raw.github.com/nova6k0/ListaBEAPAFC/master/BEAPAFC.txt
     - *Nota: no funciona con el esquema 'https'!*
 - En *Adblock EDGE*, sí que está comprobado que funciona con *https*:
-    - https://raw.githubusercontent.com/nova6k0/FiltroAEDE/master/BEAPAFC.txt
-- Recomiendo escribir en el título "Filtro Boicot a BEAPAFC + version" para que salga bien la primera vez que aparece. El título (con la versión) se actualizará automáticamente si se le da al botón 'Actualizar'.
+    - https://raw.githubusercontent.com/nova6k0/ListaBEAPAFC/master/BEAPAFC.txt
+- Recomiendo escribir en el título "Lista BEAPAFC + version" para que salga bien la primera vez que aparece. El título (con la versión) se actualizará automáticamente si se le da al botón 'Actualizar'.
 
 Cómo añadir a *uBlock*:
 ----------
@@ -32,7 +32,7 @@ Primero necesitas [tener instalado *uBlock*]. (Recomiendo: *uBlock Origin*.)
 
 • Para añadir filtros manualmente:
 
-- Desde las opciones de la extensión, añadimos la [dirección del filtro](https://raw.githubusercontent.com/nova6k0/FiltroAEDE/master/BEAPAFC.txt) en texto plano.
+- Desde las opciones de la extensión, añadimos la [dirección del filtro](https://raw.githubusercontent.com/nova6k0/ListaBEAPAFC/master/BEAPAFC.txt) en texto plano.
     - *Nota: **Sin** el caracter de exclamación (`!`), que hace referencia a "exclusión"*.
     - Notar también que en este caso, sí que se admite el esquema `https` sin problemas.
 - Click en "Actualizar". (Importante; si no, no se aplica el filtrado)
@@ -66,7 +66,7 @@ Must Check:
 *Gracias ;)*
 
 #### Cualquier duda, contactar con el mail de mi perfil: [@nova6k0]
-[se compone de]:https://github.com/nova6k0/FiltroAEDE/blob/master/BEAPAFC.txt
+[se compone de]:https://github.com/nova6k0/ListaBEAPAFC/blob/master/BEAPAFC.txt
 [tener instalado *AdBlock Plus* o actualizado (2.0 o superior)]:https://adblockplus.org/es
 [tener instalado *uBlock*]:https://github.com/gorhill/uBlock#installation
 [listado completo]:https://adblockplus.org/en/subscriptions
