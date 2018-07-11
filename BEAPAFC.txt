@@ -24,6 +24,7 @@
 ||autobild.es^$script
 ||autocasion.com^$script
 ||avanzaentucarrera.com^$script
+||belvilla.com^$script
 ||besame.co.cr^$script
 ||besame.com.mx^$script
 ||besame.fm^$script
@@ -32,6 +33,7 @@
 ||canarias7.es^$script
 ||caracol.com.co^$script
 ||caracol1260.com^$script
+||casamundo.com^$script
 ||castellolopesmultimedia.com^$script
 ||cincodias.com^$script
 ||cinemania.es^$script
@@ -109,6 +111,7 @@
 ||globaliza.com^$script
 ||grada360.com^$script
 ||granadahoy.com^$script
+||groupe-seloger.com^$script
 ||gruposantillanapr.com^$script
 ||heraldo.es^$script
 ||heraldodesoria.es^$script
@@ -122,11 +125,16 @@
 ||iarc.cl^$script
 ||ideal.es^$script
 ||ign.com^$script
+||immoweb.be^$script
+||immonet.de^$script
+||immowelt.de^$script
 ||infoempleo.es^$script
 ||intereconomia.com^$script
 ||inverycrea.net^$script
 ||iol.pt^$script
+||jobsite.co.uk^$script
 ||kebuena.com.mx^$script
+||lacentrale.fr^$script
 ||lagacetadesalamanca.es^$script
 ||laguiatv.com^$script
 ||lalistawip.com^$script
@@ -153,6 +161,7 @@
 ||librosaguilarl.com^$script
 ||librosalfaguarajuvenil.com^$script
 ||lne.es^$script
+||logic-immo.com^$script
 ||los40.cl^$script
 ||los40.com^$script
 ||los40principales.com.ar^$script
@@ -164,6 +173,7 @@
 ||marcamotoranuncios.com^$script
 ||maxima.fm^$script
 ||mediacapital.pt^$script
+||meinestadt.de^$script
 ||menorca.info^$script
 ||meristation.com^$script
 ||motormercado.com^$script
@@ -209,10 +219,13 @@
 ||santillana.cr^$script
 ||santillanafrancais.com^$script
 ||santillanausa.com^$script
+||seloger.com^$script
 ||seminariodenarrativayperiodismo.com^$script
 ||shopalike.es^$script
 ||sistemauno.com^$script
 ||sport.es^$script
+||stepstone.de^$script
+||stepstone.com^$script
 ||sumadeletras.es^$script
 ||superdeporte.es^$script
 ||tareasymas.es^$script
@@ -220,6 +233,8 @@
 ||ticbeat.com^$script
 ||tiramillas.net^$script
 ||topgear.es^$script
+||totaljobs.com^$script
+||traum-ferienwohnungen.de^$script
 ||tropicanafm.com^$script
 ||ultimahora.es^$script
 ||unidadeditorial.es^$script
@@ -229,6 +244,7 @@
 ||wradio.com.co^$script
 ||wradio.com.mx^$script
 ||wradio690.com^$script
+||yad2.co.il^$script
 !
 !------ [Reglas genericas de bloqueo de elementos personalizada] / personalized elements general blocking ------!
 1824.es##body
@@ -242,6 +258,7 @@ as.com##body
 autobild.es##body
 autocasion.com##body
 avanzaentucarrera.com##body
+belvilla.com##body
 besame.co.cr##body
 besame.com.mx##body
 besame.fm##body
@@ -250,6 +267,7 @@ cadenaser.com##body
 canarias7.es##body
 caracol.com.co##body
 caracol1260.com##body
+casamundo.com##body
 castellolopesmultimedia.com##body
 cincodias.com##body
 cinemania.es##body
@@ -327,6 +345,7 @@ galiciae.com##body
 globaliza.com##body
 grada360.com##body
 granadahoy.com##body
+groupe-seloger.com##body
 gruposantillanapr.com##body
 heraldo.es##body
 heraldodesoria.es##body
@@ -340,11 +359,16 @@ huffingtonpost.es##body
 iarc.cl##body
 ideal.es##body
 ign.com##body
+immoweb.be##body
+immonet.de##body
+immowelt.de##body
 infoempleo.es##body
 intereconomia.com##body
 inverycrea.net##body
 iol.pt##body
+jobsite.co.uk##body
 kebuena.com.mx##body
+lacentrale.fr##body
 lagacetadesalamanca.es##body
 laguiatv.com##body
 lalistawip.com##body
@@ -371,6 +395,7 @@ levante-emv.com##body
 librosaguilarl.com##body
 librosalfaguarajuvenil.com##body
 lne.es##body
+logic-immo.com##body
 los40.cl##body
 los40.com##body
 los40principales.com.ar##body
@@ -382,6 +407,7 @@ marcamotor.com##body
 marcamotoranuncios.com##body
 maxima.fm##body
 mediacapital.pt##body
+meinestadt.de##body
 menorca.info##body
 meristation.com##body
 motormercado.com##body
@@ -427,10 +453,13 @@ santillana.com##body
 santillana.cr##body
 santillanafrancais.com##body
 santillanausa.com##body
+seloger.com##body
 seminariodenarrativayperiodismo.com##body
 shopalike.es##body
 sistemauno.com##body
 sport.es##body
+stepstone.de##body
+stepstone.com##body
 sumadeletras.es##body
 superdeporte.es##body
 tareasymas.es##body
@@ -438,6 +467,8 @@ telva.com##body
 ticbeat.com##body
 tiramillas.net##body
 topgear.es##body
+totaljobs.com##body
+traum-ferienwohnungen.de##body
 tropicanafm.com##body
 ultimahora.es##body
 unidadeditorial.es##body
@@ -447,3 +478,4 @@ vodafone.fm##body
 wradio.com.co##body
 wradio.com.mx##body
 wradio690.com##body
+yad2.co.il##body
