@@ -72,6 +72,6 @@ Must Check:
 [listado completo]:https://adblockplus.org/en/subscriptions
 [@gangsthub]:https://github.com/gangsthub
 [@j3j5]:https://github.com/j3j5
-[Lista de medios alternativos]:http://wiki.15m.cc/wiki/Lista_de_medios_de_comunicaci%C3%B3n_alternativos
+[Lista de medios alternativos]:https://15mpedia.org/wiki/Lista_de_medios_de_comunicaci%C3%B3n_alternativos
 [@nova6k0]:https://github.com/nova6k0
 
