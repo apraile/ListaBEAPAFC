@@ -1,5 +1,5 @@
-Lista BEAPFC
-============
+Lista BEAPAFC
+=============
 
 Boicot a Empresas, Autores y Periodistas a Favor de la Censura. Que entre otras cosas piden leyes específicas y tasas a Internet, por su incapacidad de adaptarse a las nuevas tecnologías y al S.XXI
 
@@ -8,7 +8,7 @@ Lista de Filtros para:
 - [*"^uBlock"*](https://github.com/nova6k0/ListaBEAPAFC/blob/master/README.md#c%C3%B3mo-a%C3%B1adir-a-ublock).
 
 
-Versión actual: 0.1a
+Versión actual: 0.1b (1/1/2019)
 
 
 Cómo añadir a *AdBlock Plus* / *Adblock EDGE*:
