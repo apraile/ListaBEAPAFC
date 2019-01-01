@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Title: Lista BEAPAFC v.0.1a
-! Version: 0.1
+! Title: Lista BEAPAFC v.0.1b (1/1/2019)
+! Version: 0.1b
 ! Homepage: https://github.com/nova6k0/ListaBEAPAFC
 ! Lista basada en "Boicot AEDE v.2.3.1 (como fork del FiltroAEDE de su autor Gangsthub https://github.com/gangsthub/FiltroAEDE)
 !  'Boicot a EAPAFC v.0.1' (Deja en blanco las paginas de Empresas, Autores y Periodistas que apoyan tasas a Internet y están a favor de la censura. Leave blank the web pages of companies, authors, journalists who want to impose taxes on the Internet and are in favor of censorship.)
