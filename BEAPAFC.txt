@@ -28,6 +28,7 @@
 ||besame.co.cr^$script
 ||besame.com.mx^$script
 ||besame.fm^$script
+||businessinsider.es^$script
 ||cadenadial.com^$script
 ||cadenaser.com^$script
 ||canarias7.es^$script
@@ -100,6 +101,7 @@
 ||essayandscience.com^$script
 ||europaress.es^$script
 ||efe.com^$script
+||eliteguias.com^$script
 ||europasur.es^$script
 ||expansion.com^$script
 ||expansionyempleo.com^$script
@@ -179,6 +181,7 @@
 ||motormercado.com^$script
 ||mujerhoy.com^$script
 ||mundodeportivo.com^$script
+||nintenderos.com^$script
 ||noticiasdealava.com^$script
 ||noticiasdegipuzkoa.com^$script
 ||noticiasdenavarra.com^$script
@@ -262,6 +265,7 @@ belvilla.com##body
 besame.co.cr##body
 besame.com.mx##body
 besame.fm##body
+businessinsider.es##body
 cadenadial.com##body
 cadenaser.com##body
 canarias7.es##body
@@ -315,6 +319,7 @@ elcorreoweb.es##body
 eldiadecordoba.es##body
 eldiariomontanes.es##body
 eleconomista.es##body
+eliteguias.com##body
 efe.com##body
 europapress.es##body
 elmun.do##body
@@ -413,6 +418,7 @@ meristation.com##body
 motormercado.com##body
 mujerhoy.com##body
 mundodeportivo.com##body
+nintenderos.com##body
 noticiasdealava.com##body
 noticiasdegipuzkoa.com##body
 noticiasdenavarra.com##body
